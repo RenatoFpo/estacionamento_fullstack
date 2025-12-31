@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - JavaScript
 - NodeJS
+- MySQL
 - Git e Github
 
 
@@ -23,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é um portfólio onde contem informações e projetos.
 
-- [Visite o projeto online](https://renatofpo.github.io/estacionamento_fullstack)
+- [Visite o projeto online](https://github.com/RenatoFpo/estacionamento_fullstack)
 
 ## :memo: Licença
 
